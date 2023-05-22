@@ -1,7 +1,7 @@
 import { TaskProps } from '../../models/taskModel';
 import styles from './Task.module.scss';
 import { TbTrash } from 'react-icons/tb';
-import { BsFillCheckCircleFill } from 'react-icons/bs';
+import { BsFillCheckCircleFill } from 'react-icons/bs'
 
 const Task = ({
   task,

@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react';
+import { useEffect, useState } from 'preact/compat';
 import Header from './Components/Header/Header';
 import Tasks from './Components/Tasks/Tasks';
 import { TaskProps } from './models/taskModel';
